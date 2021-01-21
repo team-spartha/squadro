@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1576159501 source:c:\users\lenovo\desktop\projet-info\ai.cpp
+	"plateau.h"
+	<string>
+	<iostream>
+	<vector>
+
+1576153558 c:\users\lenovo\desktop\projet-info\plateau.h
+	<vector>
+	<string>
+
+1583169687 source:c:\users\lenovo\desktop\projet-info\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"plateau.h"
+	"ai.h"
+	"save_load.h"
+	"test.h"
+	<windows.h>
+
+1576169438 c:\users\lenovo\desktop\projet-info\ai.h
+	<vector>
+	<string>
+
+1576110321 c:\users\lenovo\desktop\projet-info\save_load.h
+	<vector>
+	<string>
+
+1576204088 source:c:\users\lenovo\desktop\projet-info\plateau.cpp
+	"plateau.h"
+	<string>
+	<iostream>
+	<vector>
+
+1576158164 source:c:\users\lenovo\desktop\projet-info\save_load.cpp
+	<iostream>
+	<string>
+	<vector>
+	"plateau.h"
+	"ai.h"
+	<fstream>
+
+1576196600 c:\users\lenovo\desktop\projet-info\test.h
+
+1576198429 source:c:\users\lenovo\desktop\projet-info\test.cpp
+	<stdexcept>
+	"plateau.h"
+	<iostream>
+	<string>
+	<vector>
+
+1576155901 source:c:\users\lenovo\desktop\souvenir\projet-info\ai.cpp
+	"plateau.h"
+	<string>
+	<iostream>
+	<vector>
+
+1576149958 c:\users\lenovo\desktop\souvenir\projet-info\plateau.h
+	<vector>
+	<string>
+
+1576200488 source:c:\users\lenovo\desktop\souvenir\projet-info\plateau.cpp
+	"plateau.h"
+	<string>
+	<iostream>
+	<vector>
+
+1576154564 source:c:\users\lenovo\desktop\souvenir\projet-info\save_load.cpp
+	<iostream>
+	<string>
+	<vector>
+	"plateau.h"
+	"ai.h"
+	<fstream>
+
+1576165838 c:\users\lenovo\desktop\souvenir\projet-info\ai.h
+	<vector>
+	<string>
+
+1595986920 source:c:\users\lenovo\desktop\souvenir\projet-info\test.cpp
+	<stdexcept>
+	"plateau.h"
+	<iostream>
+	<string>
+	<vector>
+
+1610207122 source:c:\users\lenovo\desktop\souvenir\projet-info\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"plateau.h"
+	"ai.h"
+	"save_load.h"
+	"test.h"
+	<windows.h>
+
+1576106721 c:\users\lenovo\desktop\souvenir\projet-info\save_load.h
+	<vector>
+	<string>
+
+1576193000 c:\users\lenovo\desktop\souvenir\projet-info\test.h
+
+1576155901 source:c:\users\lenovo\desktop\souvenir\squadro\ai.cpp
+	"plateau.h"
+	<string>
+	<iostream>
+	<vector>
+
+1576149958 c:\users\lenovo\desktop\souvenir\squadro\plateau.h
+	<vector>
+	<string>
+
+1576200488 source:c:\users\lenovo\desktop\souvenir\squadro\plateau.cpp
+	"plateau.h"
+	<string>
+	<iostream>
+	<vector>
+
+1576154564 source:c:\users\lenovo\desktop\souvenir\squadro\save_load.cpp
+	<iostream>
+	<string>
+	<vector>
+	"plateau.h"
+	"ai.h"
+	<fstream>
+
+1576165838 c:\users\lenovo\desktop\souvenir\squadro\ai.h
+	<vector>
+	<string>
+
+1595986920 source:c:\users\lenovo\desktop\souvenir\squadro\test.cpp
+	<stdexcept>
+	"plateau.h"
+	<iostream>
+	<string>
+	<vector>
+

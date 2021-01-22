@@ -1,8 +1,5 @@
 **/bin/
-<<<<<<< HEAD
 **/obj/
 Client/capture.py
 **/credentials.txt
-=======
-**/obj/
->>>>>>> First commit!
+**/.mypy_cache
